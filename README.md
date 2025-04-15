@@ -73,8 +73,8 @@ date
 
 ## OUTPUT
 
-#### REG NUMBER: 212222100058
-#### NAME: E VARSHA SHARON
+#### REG NUMBER: 212222100050
+#### NAME: SIVARAM R
 
 Configuration of Kali Linux on Oracle Virtual Box :
 
